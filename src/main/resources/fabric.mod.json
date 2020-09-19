@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "himekaidou",
+  "version": "${version}",
+
+  "name": "Himekaidou Missing Texture",
+  "description": "おはよう! This is just a test mod to warm up for Java. CPSC 210 represent!",
+  "authors": [
+    "射命丸文",
+    "姫海棠 はたて",
+    "Kiczales Gregor"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/himekaidou/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.himekaidou.Main"
+    ]
+  },
+  "mixins": [
+  "himekaidou.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

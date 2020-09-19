@@ -1,0 +1,23 @@
+{
+  "text.himekaidou.blank_line": "",
+  "item.himekaidou.test_item": "Lost Shrine Maiden's Stick",
+  "item.himekaidou.marisa_hat": "Marisa's Hat",
+
+  "item.himekaidou.stone_baby": "Stone Baby",
+  "item.himekaidou.stone_baby.description0": "§7You feel like throwing the baby, but why?",
+  "item.himekaidou.stone_baby.quote0": "§8§o\"Are you looking to get dragged down by",
+  "item.himekaidou.stone_baby.quote1": "§8§oby some savage fish?\"",
+
+  "item.himekaidou.roukanken": "Roukanken",
+  "item.himekaidou.roukanken.description0": "§7It is said that this blade can cut 10 spirits",
+  "item.himekaidou.roukanken.description1": "§7at once, but spirits themselves cannot be slain...",
+  "item.himekaidou.roukanken.quote0": "§8§o\"The things that cannot be cut by my Roukanken,",
+  "item.himekaidou.roukanken.quote1": "§8§oforged by Youkai, are close to none!\"",
+
+  "item.himekaidou.third_eye_closed": "Third Eye (Closed)",
+  "item.himekaidou.third_eye_closed.description0": "§7No one seems to mind with you around...",
+  "item.himekaidou.third_eye_closed.quote0": "§8§o\"Reading people's minds only makes you ",
+  "item.himekaidou.third_eye_closed.quote1": "§8§odepressed and there's nothing good about it.\"",
+  "item.himekaidou.third_eye_closed.activate": "§7It seems that no one minds your presence.",
+  "item.himekaidou.third_eye_closed.deactivate" : "§7You appear out of thin air!"
+}
